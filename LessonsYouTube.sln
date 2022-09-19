@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonsYouTube", "LessonsYouTube\LessonsYouTube.csproj", "{428DAC7F-A071-4506-8F7C-4E8DB57C280D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{DD7128F6-C927-40EB-A327-9FB9CF859DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseHomework", "SwitchCaseHomework\SwitchCaseHomework.csproj", "{57878DBD-8665-4DCA-B2F8-BCC620A6491C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "ConsoleApp1\While.csproj", "{21D42A95-A1EB-448E-9CCC-C75B22C1FB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileHomework", "WhileHomework\WhileHomework.csproj", "{9B2D0610-F239-4F84-A3E7-AA0AA23B7ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.csproj", "{559A8EFB-AA64-437C-832D-A29F2488F7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{428DAC7F-A071-4506-8F7C-4E8DB57C280D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428DAC7F-A071-4506-8F7C-4E8DB57C280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428DAC7F-A071-4506-8F7C-4E8DB57C280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428DAC7F-A071-4506-8F7C-4E8DB57C280D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7128F6-C927-40EB-A327-9FB9CF859DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7128F6-C927-40EB-A327-9FB9CF859DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7128F6-C927-40EB-A327-9FB9CF859DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7128F6-C927-40EB-A327-9FB9CF859DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57878DBD-8665-4DCA-B2F8-BCC620A6491C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57878DBD-8665-4DCA-B2F8-BCC620A6491C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57878DBD-8665-4DCA-B2F8-BCC620A6491C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57878DBD-8665-4DCA-B2F8-BCC620A6491C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D42A95-A1EB-448E-9CCC-C75B22C1FB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D42A95-A1EB-448E-9CCC-C75B22C1FB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D42A95-A1EB-448E-9CCC-C75B22C1FB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D42A95-A1EB-448E-9CCC-C75B22C1FB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2D0610-F239-4F84-A3E7-AA0AA23B7ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2D0610-F239-4F84-A3E7-AA0AA23B7ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2D0610-F239-4F84-A3E7-AA0AA23B7ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2D0610-F239-4F84-A3E7-AA0AA23B7ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559A8EFB-AA64-437C-832D-A29F2488F7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559A8EFB-AA64-437C-832D-A29F2488F7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559A8EFB-AA64-437C-832D-A29F2488F7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559A8EFB-AA64-437C-832D-A29F2488F7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E1BE2D9-9FAE-400D-ACA3-2B764993C7E3}
+	EndGlobalSection
+EndGlobal
